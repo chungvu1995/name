@@ -1,0 +1,51 @@
+body{
+	background-image: url(mu.jpg); 
+}
+ul{
+	padding-top: 100px;
+	width: 1000px;
+	height: 30px;
+	border: 5px;
+}
+.shear{
+	padding-top: 110px;
+	padding-left: 80px;
+}
+li{
+	border-right: 2px solid #770000;
+	background-color: #EEEEEE;
+}
+.active{
+	background-color: #FFFFCC;
+}
+li:hover{
+	background-color: #66FF99;
+}
+a{
+	font-size: 25px;
+	color: #3c3c3c;
+}
+a:hover{
+	color: #220000;
+	text-decoration: underline;
+}
+.main{
+	padding-top: 180px;
+	padding-left: 150px;
+}
+img{
+	border-radius: 50%;
+}
+span{
+	font-size: 25px;
+	color: white;
+}
+h1{
+	color: white;
+}
+ .admin a:hover {
+      z-index: 600;
+      color: rgba(27,178,147,0.775);
+      transition: all .85s;
+      -webkit-transition: all .85s;
+   }
